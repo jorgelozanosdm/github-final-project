@@ -40,7 +40,7 @@ Simple Interest = 100
 ```
 
 ## 🛠 Technologies Used
-- Python / JavaScript (or any language of choice)
+- Shell script
 - Command-line interface or GUI
 
 ## 🎯 Future Enhancements
