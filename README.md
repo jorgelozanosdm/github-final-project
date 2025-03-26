@@ -49,7 +49,7 @@ Simple Interest = 100
 - ✅ Web and mobile versions
 
 ## 📜 License
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the **Apache License 2.0**.
 
 ---
 Made with ❤️ for finance enthusiasts!
